@@ -55,7 +55,10 @@ const restraunts = {
         category: 'Fast Food',
         rating: '3.8',
         items: {
-
+            papaBurger: {
+                name: 'Papa Burger',
+                price: 7.00,
+            }
         }
     },
 };
