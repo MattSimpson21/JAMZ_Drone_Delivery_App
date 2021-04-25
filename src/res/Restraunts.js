@@ -41,7 +41,10 @@ const restraunts = {
         category: 'Fast Food',
         rating: '4.3',
         items: {
-
+            padThai: {
+                name: 'Pad Thai',
+                price: 8.50,
+            }
         }
     },
 
