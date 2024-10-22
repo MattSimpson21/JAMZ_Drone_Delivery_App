@@ -1,4 +1,4 @@
-# JAMZ_project_A2
+# JAMZ Drone Delivery App
 
 Team Project Completed for the UOttawa Engineering Design Class GNG1103.
 All software development was lead by Matthew Simpson.
